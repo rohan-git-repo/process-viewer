@@ -1,5 +1,5 @@
 # process-viewer
-(monitor.png)
+(/monitor.png)
 
 The Program shows the various Process running on the Computer and the Resources being used.
 
