@@ -1,4 +1,6 @@
 # process-viewer
+(images/monitor.png)
+
 The Program shows the various Process running on the Computer and the Resources being used.
 
 Install ncurses, make and cmake before running this terminal application.
