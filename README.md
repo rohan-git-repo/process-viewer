@@ -10,7 +10,7 @@ on Arch:
 sudo pacman -Syu gcc make cmake ncurses base-devel
 
 on Ubuntu or Debian:
-sudo apt-get install libncurses5-dev libncursesw5-dev cmake build-essentials
+sudo apt-get install libncurses5-dev libncursesw5-dev cmake build-essential
 
 Just Clone the repo:
  git clone https://github.com/rohan-git-repo/process-viewer.git
